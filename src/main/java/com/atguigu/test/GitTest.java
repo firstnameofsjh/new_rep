@@ -3,8 +3,9 @@ package com.atguigu.test;
 public class GitTest {
 	
 	public static void main(String[] args) {
-		System.out.println("ddddddsddd");
-		System.out.println("dddddGitHub");
-		System.out.println("ddddddddddd");
+			System.out.println("aaaaaaaaaaaa");
+			System.out.println("aaaaaaaaaaaa");
+			System.out.println("aaaaaaaaaaaa");
+			System.out.println("aaaaaaaaaaaa");
 	}
 }
